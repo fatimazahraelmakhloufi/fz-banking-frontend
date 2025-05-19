@@ -1,2 +1,2 @@
 <h2>Compte Rendu </h2>
-<img scr="capture\frontendcapture.png">
+<img scr="capture\frontendcapture.png"\>
